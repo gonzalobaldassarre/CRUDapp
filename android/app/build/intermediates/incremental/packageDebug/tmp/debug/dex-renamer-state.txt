@@ -1,0 +1,4 @@
+#Wed Nov 27 13:33:06 ART 2019
+base.0=/home/gonz4/Escritorio/React/crudBlog/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
