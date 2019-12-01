@@ -5,4 +5,4 @@ inside /jsonServer and in separated terminals
 1 npm run db
 2 npm run tunnel
 
-And ser baseURL in /src/api/jsonServer.js with the link given in 1.
+And set baseURL in /src/api/jsonServer.js with the link given in 1.
